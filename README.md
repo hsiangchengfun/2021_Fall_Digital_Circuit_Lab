@@ -1,1 +1,3 @@
-# 2021_Fall_Digital_Circuit_Lab
+# Digital-Lab
+
+2021 Final Project source code 
